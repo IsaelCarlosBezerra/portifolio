@@ -7,7 +7,7 @@ export default function Projects() {
       description: "Cronômetro Simples",
       image:
         "https://images.unsplash.com/photo-1487014679447-9f8336841d58?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1605&q=80",
-      link: "src/projetos/cronometro/index.html",
+      link: "#" /* "src/projetos/cronometro/index.html" */,
       colSpan: "col-span-1",
     },
     {
@@ -15,7 +15,7 @@ export default function Projects() {
       description: "Calculadora Básica",
       image:
         "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHdlYnNpdGVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-      link: "src/projetos/calculadora/index.html",
+      link: "#" /* "src/projetos/calculadora/index.html" */,
       colSpan: "col-span-1 md:col-span-2",
     },
     {
@@ -23,7 +23,7 @@ export default function Projects() {
       description: "Perquise o clima de qualquer cidade pelo nome.",
       image:
         "https://media.istockphoto.com/id/1305995602/photo/responsive-floating-responsive-design.jpg?b=1&s=170667a&w=0&k=20&c=uFqBz27v_B0UxcslnvZxd9c0D9eJAef7veRZf6b-v-A=",
-      link: "src/projetos/clima-por-cidade/index.html",
+      link: "#" /* "src/projetos/clima-por-cidade/index.html" */,
       colSpan: "col-span-1",
     },
     {
@@ -31,7 +31,7 @@ export default function Projects() {
       description: "Simula Cadastro Com Gerador de Senhas Seguras",
       image:
         "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-      link: "src/projetos/gerador-de-senhas/index.html",
+      link: "#" /* "src/projetos/gerador-de-senhas/index.html" */,
       colSpan: "col-span-1",
     },
     {
@@ -39,7 +39,7 @@ export default function Projects() {
       description: "Lista de Tarefas Básica",
       image:
         "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bW9iaWxlJTIwYXBwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-      link: "src/projetos/lista-tarefas/index.html",
+      link: "#" /* "src/projetos/lista-tarefas/index.html" */,
       colSpan: "col-span-1",
     },
   ];
